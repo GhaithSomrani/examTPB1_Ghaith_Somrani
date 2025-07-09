@@ -7,3 +7,6 @@ def produit (T):
     for t in T:
         s*=t
         return s
+print("le produit est: ",produit(Data))
+print("le produit est: ",min(Data))
+print("le produit est: ",max(Data))
